@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Java
+target/
+*.class
+
+# React
+coverage/
